@@ -1,16 +1,15 @@
-# React + Vite
+# ⚡ Pokédex Wish - Proyecto Moderno
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicación web progresiva desarrollada como parte de la asignatura ISAD. Combina el consumo de la PokeAPI con inteligencia artificial generativa.
 
-Currently, two official plugins are available:
+## 🚀 Stack Tecnológico
+* **Core:** React.js + Vite
+* **Estilos:** Tailwind CSS
+* **AI:** Google Gemini API
+* **Gráficos:** Recharts
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Funcionalidades
+* Buscador en tiempo real.
+* Chatbot "Profesor Oak" integrado.
+* Análisis de estadísticas con gráficos de radar.
+* Gestión de equipo Pokémon (Persistencia local).
